@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Froge.vcxproj" Id="e4a3a11c-a09e-4de8-bc95-8d61f91b109a" />
+</Solution>
